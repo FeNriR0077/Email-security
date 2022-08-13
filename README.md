@@ -33,7 +33,7 @@ You have two methods to use metacheck. Either you can download the github repo a
 2.  Running from the mailcheck.py file
 
   ```(bash)
-    cd mailcheck
+    cd Email-security-mailcheck-
     python3 mailcheck.py
   ```
 
