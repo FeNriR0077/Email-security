@@ -56,33 +56,13 @@ python3 mailcheck.py -f message.eml
 ```
 
 
-
-or
-
-2. Downloading the `mailcheck` executable for linux and giving it executable permissions. Then supplying the eml file to the pre-compiled binary. (No dependencies)
-
-```
-wget https://github.com/FeNriR0077/Email-security-mailcheck-.git
-chmod +x mailcheck
-mailcheck -f message.eml
-```
 <br>
 
 
 ### Windows
 
-1. Executing the precompiled binaries downloaded from the releases page. (No dependencies needed)
 
-```
-mailcheck.exe -f .\message.eml
-```
-
-
-<br>
-
-or
-
-2. Running from the repository clonned (Python Required)
+1. Running from the repository clonned (Python Required)
 
 ```
 python3 mailcheck.py -f message.eml
