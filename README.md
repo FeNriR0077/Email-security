@@ -37,7 +37,9 @@ You have two methods to use metacheck. Either you can download the github repo a
     
     pip install -r requirements.txt
     
-    python mailcheck.py
+    chmod +x mailcheck.py
+    
+    python3 mailcheck.py
   ```
 
 ## Usage
@@ -69,6 +71,10 @@ python3 mailcheck.py -f message.eml
 
 ```
 python3 mailcheck.py -f message.eml
+```
+or
+```
+python mailcheck.py -f message.eml
 ```
 
 
