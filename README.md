@@ -34,8 +34,10 @@ You have two methods to use metacheck. Either you can download the github repo a
 
   ```(bash)
     cd Email-security-mailcheck-
+    
     pip install -r requirements.txt
-    python3 mailcheck.py
+    
+    python mailcheck.py
   ```
 
 ## Usage
