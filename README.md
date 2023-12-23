@@ -67,7 +67,7 @@ python3 mailcheck.py -f message.eml
 ### Windows
 
 
-1. Running from the repository clonned (Python Required)
+1. Running from the repository cloned (Python Required)
 
 ```
 python3 mailcheck.py -f message.eml
