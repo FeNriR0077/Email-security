@@ -1,7 +1,7 @@
 
 ## About mailcheck
 
-- What is mailMeta?
+- What is mailcheck?
 Mailcheck is an email header analyzer tool that detects whether your emailis spoofed or not. This help in detection of phishing and spammed mails.
 
  - What are the information revealed by the mailcheck?
